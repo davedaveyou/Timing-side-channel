@@ -1,0 +1,11 @@
+**Requirements**
+
+Python 3.8 or higher
+
+Linux (Ubuntu recommended)
+
+Python libraries:
+
+numpy
+
+matplotlib

@@ -31,6 +31,7 @@ If you want to choose your own secret follow the format below (replace HI)
 View it --> xdg-open page_trace.png
 
 **In the case soemthing fails**
+
 Error: matplotlib not found
 do this!
 pip install matplotlib

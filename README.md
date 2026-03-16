@@ -30,7 +30,7 @@ If you want to choose your own secret follow the format below (replace HI)
 8) page_trace.png
 View it --> xdg-open page_trace.png
 
-**In the case soemthing fails**
+**In the case something fails**
 
 Error: matplotlib not found
 do this!
